@@ -1,6 +1,17 @@
 # Victor Phos - Fullstack Developer 👨🏾‍💻
 Creating work that positively impacts and empowers people — I did it yesterday, I’m doing it today, and I’ll continue doing it tomorrow.
 
+## Languages (Current)
+- Javascript
+- Python
+- Golang
+
+## Languages (Intrested In)
+- Golang
+- Ruby
+
+
+
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=phoscoder&theme=tokyonight)](https://git.io/streak-stats)
 
 </br>
