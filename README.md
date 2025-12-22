@@ -4,12 +4,8 @@ Creating work that positively impacts and empowers people — I did it yesterday
 ## Languages (Current)
 - Javascript
 - Python
-- Golang
-
-## Languages (Intrested In)
-- Golang
-- Ruby
-
+- Golang (Intrested in)
+- Ruby (Intrested in)
 
 
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=phoscoder&theme=tokyonight)](https://git.io/streak-stats)
