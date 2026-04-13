@@ -6,7 +6,7 @@ Creating work that positively impacts and empowers people — I did it yesterday
 🗂️ [@Lanitech](https://lanitech360.com/) <br>
 👨🏾‍💻 [@Myself](https://victorphos.dev/)
 
-## Languages (Current)
+## Languages
 ☕ Javascript/Typescript <br>
 🐍 Python <br>
 🦀 Rust   (Learning Fast) <br>
