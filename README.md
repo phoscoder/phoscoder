@@ -1,11 +1,16 @@
 # Victor Phos - Fullstack Developer 👨🏾‍💻
 Creating work that positively impacts and empowers people — I did it yesterday, I’m doing it today, and I’ll continue doing it tomorrow.
 
+## Working on 
+🕸️ [@Sonity](https://sonity.net) <br>
+🗂️ [@Lanitech](https://lanitech360.com/) <br>
+👨🏾‍💻 [@Myself](https://victorphos.dev/)
+
 ## Languages (Current)
-- Javascript/Typescript
-- Python
-- Rust   (Learning Fast)
-- Golang (Learning Slowly)
+- ☕ Javascript/Typescript
+- 🐍 Python
+- 🦀 Rust   (Learning Fast)
+- 🦫 Golang (Learning Slowly)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phoscoder&" alt="phoscoder" /></p>
 
