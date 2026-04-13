@@ -4,8 +4,8 @@ Creating work that positively impacts and empowers people — I did it yesterday
 ## Languages (Current)
 - Javascript/Typescript
 - Python
-- Rust   (Learning x0.5)
-- Golang (Learning x5)
+- Rust   (Learning Fast)
+- Golang (Learning Slowly)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phoscoder&" alt="phoscoder" /></p>
 
