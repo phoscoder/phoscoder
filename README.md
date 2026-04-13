@@ -2,18 +2,11 @@
 Creating work that positively impacts and empowers people — I did it yesterday, I’m doing it today, and I’ll continue doing it tomorrow.
 
 ## Languages (Current)
-- Javascript
+- Javascript/Typescript
 - Python
-- Rust (Learning)
-- Golang (Intrested in)
+- Rust   (Learning x0.5)
+- Golang (Learning x5)
 
-
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=phoscoder&theme=tokyonight)](https://git.io/streak-stats)
-
-</br>
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phoscoder&" alt="phoscoder" /></p>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/takucoder)
