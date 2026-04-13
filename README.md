@@ -1,4 +1,4 @@
-# Victor Phos - Fullstack Developer 👨🏾‍💻
+# Victor Phos - `Software Engineer` 👨🏾‍💻
 Creating work that positively impacts and empowers people — I did it yesterday, I’m doing it today, and I’ll continue doing it tomorrow.
 
 ## Working on 
@@ -7,10 +7,10 @@ Creating work that positively impacts and empowers people — I did it yesterday
 👨🏾‍💻 [@Myself](https://victorphos.dev/)
 
 ## Languages (Current)
-- ☕ Javascript/Typescript
-- 🐍 Python
-- 🦀 Rust   (Learning Fast)
-- 🦫 Golang (Learning Slowly)
+☕ Javascript/Typescript <br>
+🐍 Python <br>
+🦀 Rust   (Learning Fast) <br>
+🦫 Golang (Learning Slowly) <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phoscoder&" alt="phoscoder" /></p>
 
