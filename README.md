@@ -1,7 +1,7 @@
-# Victor Phos - `Software Engineer` 👨🏾‍💻
+# Victor Phos - Software Engineer 👨🏾‍💻
 Creating work that positively impacts and empowers people — I did it yesterday, I’m doing it today, and I’ll continue doing it tomorrow.
 
-## Working on 
+## Working on
 🕸️ [@Sonity](https://sonity.net) <br>
 🗂️ [@Lanitech](https://lanitech360.com/) <br>
 👨🏾‍💻 [@Myself](https://victorphos.dev/)
