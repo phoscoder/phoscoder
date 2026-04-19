@@ -13,9 +13,14 @@ Creating work that positively impacts and empowers people — I did it yesterday
 🦫 Golang (Learning Slowly) <br>
 
 ## Stats
-<p>
-  <img src="https://github-readme-streak-stats-ashy-xi-97.vercel.app/?user=phoscoder&theme=tokyonight" alt="phoscoder" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoscoder&theme=tokyonight&langs_count=6&layout=compact&hide=php,m4,c%2B%2B,c,objective-c,jupyter%20notebook,cmake,html,shell,roff,css,ruby,swift,dockerfile,awk,kotlin,java,scss,rescript" />
-</p>
+
+
+<a href="" >
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=phoscoder&theme=tokyonight&show_icons=true&hide_rank=true" />
+</a>
+
+<a href="" >
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoscoder&theme=tokyonight&langs_count=6&layout=donut&hide=php,m4,c%2B%2B,c,objective-c,jupyter%20notebook,cmake,html,shell,roff,css,ruby,swift,dockerfile,awk,kotlin,java,scss,rescript" />
+</a>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/takucoder)
