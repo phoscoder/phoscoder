@@ -20,7 +20,7 @@ Creating work that positively impacts and empowers people — I did it yesterday
 </a>
 
 <a href="" >
-  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoscoder&theme=tokyonight&langs_count=6&layout=donut&hide=php,m4,c%2B%2B,c,objective-c,jupyter%20notebook,cmake,html,shell,roff,css,ruby,swift,dockerfile,awk,kotlin,java,scss,rescript" />
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoscoder&theme=tokyonight&langs_count=6&layout=donut&hide=php,m4,c%2B%2B,c,objective-c,jupyter%20notebook,cmake,html,shell,roff,css,ruby,swift,dockerfile,awk,kotlin,java,scss,rescript,javascript" />
 </a>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/takucoder)
