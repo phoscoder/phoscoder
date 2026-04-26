@@ -9,8 +9,8 @@ Creating work that positively impacts and empowers people — I did it yesterday
 ## Languages
 ☕ Javascript/Typescript <br>
 🐍 Python <br>
-🦀 Rust   (Learning Fast) <br>
-🦫 Golang (Learning Slowly) <br>
+🦀 Rust<br>
+🦫 Golang<br>
 
 ## Stats
 
