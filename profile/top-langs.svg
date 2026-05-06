@@ -93,7 +93,7 @@
           height="99%"
           stroke="#e4e2e2"
           width="349"
-          fill="#1a1b27"
+          fill="#00000000"
           stroke-opacity="1"
         />
 
@@ -108,7 +108,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Most Used Languages</text>
+      >Core Stack</text>
     </g>
       </g>
     
