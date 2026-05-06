@@ -1,0 +1,15 @@
+- name: Generate stats card
+  uses: readme-tools/github-readme-stats-action@v1
+  with:
+    card: stats
+    options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_rank=true
+    path: profile/stats.svg
+    token: ${{ secrets.TOKEN }}
+
+- name: Generate top langs card
+  uses: readme-tools/github-readme-stats-action@v1
+  with:
+    card: top-langs
+    options: username=${{ github.repository_owner }}&theme=tokyonight&langs_count=6&layout=donut&hide=php,m4,c%2B%2B,c,objective-c,jupyter%20notebook,cmake,html,shell,roff,css,ruby,swift,dockerfile,awk,kotlin,java,scss,rescript,javascript
+    path: profile/top-langs.svg
+    token: ${{ secrets.TOKEN }}
