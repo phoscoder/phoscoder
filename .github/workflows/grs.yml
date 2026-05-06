@@ -15,7 +15,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_rank=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_rank=true&bg_color=00000000
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -23,7 +23,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&theme=tokyonight&langs_count=6&layout=donut&hide=php,m4,c%2B%2B,c,objective-c,jupyter%20notebook,cmake,html,shell,roff,css,ruby,swift,dockerfile,awk,kotlin,java,scss,rescript,javascript&custom_title=Core%20Stack
+          options: username=${{ github.repository_owner }}&theme=tokyonight&langs_count=6&layout=donut&hide=php,m4,c%2B%2B,c,objective-c,jupyter%20notebook,cmake,html,shell,roff,css,ruby,swift,dockerfile,awk,kotlin,java,scss,rescript,javascript&custom_title=Core%20Stack&bg_color=00000000
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
