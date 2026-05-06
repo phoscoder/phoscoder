@@ -31,4 +31,7 @@ Creating work that positively impacts and empowers people — I did it yesterday
 <img height=195 align="center"  src="profile/top-langs.svg" />
 </a>
 
+<br>
+<br>
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/takucoder)
