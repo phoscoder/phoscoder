@@ -20,7 +20,7 @@ Creating work that positively impacts and empowers people — I did it yesterday
 </a>
 
 <a href="" >
-  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoscoder&theme=tokyonight&langs_count=6&layout=donut&hide=php,m4,c%2B%2B,c,objective-c,jupyter%20notebook,cmake,html,shell,roff,css,ruby,swift,dockerfile,awk,kotlin,java,scss,rescript,javascript" />
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoscoder&theme=tokyonight&langs_count=6&layout=donut&hide=php,m4,qml,c%2B%2B,c,objective-c,jupyter%20notebook,cmake,html,shell,roff,css,ruby,swift,dockerfile,awk,kotlin,java,scss,rescript,javascript" />
 </a> -->
 
 <!-- <a href="" >
